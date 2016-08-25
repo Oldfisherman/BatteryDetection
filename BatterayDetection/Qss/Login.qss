@@ -1,0 +1,6 @@
+#QHorizontalLayoutPassword{border-radius: 5px;}
+#QHorizontalLayoutUserName{border-radius: 5px;}
+QFrame#LoginFrame{
+    background-color:rgb(200,200,200);
+    border-radius: 30px;
+}
