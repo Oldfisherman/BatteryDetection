@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Start">
+    <file>Resource/Graphicloads-100-Flat-2-Battery-full.ico</file>
+    <file>Resource/login_password.png</file>
+    <file>Resource/login_user.png</file>
+    <file>Resource/start.png</file>
+    <file>Resource/defond_w300.png</file>
+  </qresource>
+</RCC>
